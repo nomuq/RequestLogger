@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = 'RequestLogger'
-    s.version          = '0.1.0'
+    s.version          = '1.0.0'
     s.summary          = 'RequestLogger is a powerful logging framework for Alamofire Requests.'
     s.homepage         = 'https://github.com/satishbabariya/RequestLogger'
     s.license          = { :type => 'MIT', :file => 'LICENSE' }
