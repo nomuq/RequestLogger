@@ -8,11 +8,9 @@ Pod::Spec.new do |s|
     s.source           = { :git => 'https://github.com/satishbabariya/RequestLogger.git', :tag => s.version.to_s }
     s.ios.deployment_target = '8.0'
     s.source_files = 'RequestLogger.swift'
-    s.requires_arc = true
     s.static_framework = true
-    s.pod_target_xcconfig = {
-        'SWIFT_VERSION' => '4.0'
-    }    
+    s.cocoapods_version = '>= 1.4.0'
+    s.swift_version = '4.0'   
     s.dependency 'Alamofire', '~> 4.7'
     s.frameworks = 'Foundation'
 end
