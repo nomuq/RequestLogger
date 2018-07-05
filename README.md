@@ -4,11 +4,6 @@
 [![License](https://img.shields.io/cocoapods/l/RequestLogger.svg?style=for-the-badge)](https://cocoapods.org/pods/RequestLogger)
 [![Platform](https://img.shields.io/cocoapods/p/RequestLogger.svg?style=for-the-badge)](https://cocoapods.org/pods/RequestLogger)
 
-## Example
-
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
-## Requirements
 
 ## Installation
 
